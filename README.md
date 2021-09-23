@@ -45,3 +45,6 @@ yarn dev
 The app should be available via [http://localhost:3000](http://localhost:3000).
 
 Good luck and talk soon!
+
+## Link to coding challenge video.
+[Challenge Video](https://drive.google.com/file/d/1gDxhYVCpJ9II_de7bW0OwD3vUDjC0Chz/view?usp=sharing)
